@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Migrations\\20241129185119_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiPaplria\\Migrations\\20241129185119_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\apipaplria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\apipaplria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\models\\puntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\models\\puntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Migrations\\20241129184453_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiPaplria\\Migrations\\20241129184453_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\controllers\\detalleventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\controllers\\detalleventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\controllers\\puntoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\controllers\\puntoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|c:\\users\\ryzen 5\\source\\repos\\apipaplria\\apipaplria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF5FEDF-0D24-4F74-A343-FB5A7473BE64}|ApiPaplria\\ApiPaplria.csproj|solutionrelative:apipaplria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241129185119_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Migrations\\20241129185119_Initial.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Migrations\\20241129185119_Initial.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Migrations\\20241129185119_Initial.cs",
+              "RelativeToolTip": "ApiPaplria\\Migrations\\20241129185119_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:51:20.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "ApiPaplria\\Controllers\\AlumnoController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:35:09.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Models\\Alumno.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Models\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Models\\Alumno.cs",
+              "RelativeToolTip": "ApiPaplria\\Models\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:05:39.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Puntos.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Models\\Puntos.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Models\\Puntos.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Models\\Puntos.cs",
+              "RelativeToolTip": "ApiPaplria\\Models\\Puntos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:02:32.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "ApiPaplria\\Controllers\\VentaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:03:39.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Models\\Venta.cs",
+              "RelativeToolTip": "ApiPaplria\\Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:55:33.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Controllers\\PagoController.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Controllers\\PagoController.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Controllers\\PagoController.cs",
+              "RelativeToolTip": "ApiPaplria\\Controllers\\PagoController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwGcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:04:04.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiPaplria\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\appsettings.json",
+              "RelativeToolTip": "ApiPaplria\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T05:58:28.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Models\\Producto.cs",
+              "RelativeToolTip": "ApiPaplria\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:55:28.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Models\\Pago.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Models\\Pago.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Models\\Pago.cs",
+              "RelativeToolTip": "ApiPaplria\\Models\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:55:57.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Models\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Models\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Models\\DetalleVenta.cs",
+              "RelativeToolTip": "ApiPaplria\\Models\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:02:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiPaplria.csproj",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\ApiPaplria.csproj",
+              "RelativeDocumentMoniker": "ApiPaplria\\ApiPaplria.csproj",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\ApiPaplria.csproj",
+              "RelativeToolTip": "ApiPaplria\\ApiPaplria.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T00:53:14.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241129184453_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Migrations\\20241129184453_Initial.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Migrations\\20241129184453_Initial.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Migrations\\20241129184453_Initial.cs",
+              "RelativeToolTip": "ApiPaplria\\Migrations\\20241129184453_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:44:53.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "ApiPaplria\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAQwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:53:19.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Context\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Context\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Context\\AppDBContext.cs",
+              "RelativeToolTip": "ApiPaplria\\Context\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:53:46.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetalleVentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Controllers\\DetalleVentaController.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Controllers\\DetalleVentaController.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Controllers\\DetalleVentaController.cs",
+              "RelativeToolTip": "ApiPaplria\\Controllers\\DetalleVentaController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAQwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:35:29.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PuntosController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Controllers\\PuntosController.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Controllers\\PuntosController.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Controllers\\PuntosController.cs",
+              "RelativeToolTip": "ApiPaplria\\Controllers\\PuntosController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:03:53.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Program.cs",
+              "RelativeDocumentMoniker": "ApiPaplria\\Program.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\source\\repos\\ApiPaplria\\ApiPaplria\\Program.cs",
+              "RelativeToolTip": "ApiPaplria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:59:38.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
